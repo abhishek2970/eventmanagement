@@ -16,4 +16,6 @@
     <h2 style="color:blue; text-align:center;font-size:20px" >BookMyEvent- Created Abhishek Walia and Akshat Jain</h2>
 </footer>
 </body>
+	</head>
 </html>
+
